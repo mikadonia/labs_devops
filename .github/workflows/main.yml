@@ -69,4 +69,4 @@ jobs:
         with:
           context: ./app_python
           push: true
-          tags: ghcr.io/mikadonia/simplewhale:latest
+          tags: ghcr.io/mikadonia/simplewhaleci:latest
