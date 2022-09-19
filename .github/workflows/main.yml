@@ -68,4 +68,4 @@ jobs:
         with:
           context: ./app_python
           push: true
-          tags: mikadonia/labs_devops-app_python:latest
+          tags: ghcr.io/mikadonia/simplewhale:latest
